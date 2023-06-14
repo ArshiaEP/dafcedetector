@@ -1,0 +1,22 @@
+[config]
+Allurls=https://example1.com
+	https://example2.com
+	https://example3.com
+	https://example4.com
+Tolerance=5
+          5
+          5
+          5
+Hash=eb2734dehbe6742c0a2c134c7fdd5fe0
+     2bb8cet5648d37d5f5ea63cef71e0a9f
+     3b261t4d75a56743bd467a393c0edb3d
+     bf780d6d314eaf3c2fafec69102tbfb0
+
+Hashblacklist=https://example1.com
+              https://example4.com
+	     
+Defacechannelwebhook=https://hooks.slack.com/services/xxxxxxxxx/xxxxxxxxx/xxxxxxxxx
+Healthcheckwebhook=https://hooks.slack.com/services/xxxxxxxxx/xxxxxxxxx/xxxxxxxxx
+Screenshotblacklists=https://example4.com
+		     https://example2.com
+    		     
